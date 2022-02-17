@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=5 python main.py --load_json ./CL.json --model DFR --data ./sports_prep

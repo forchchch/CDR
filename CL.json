@@ -1,0 +1,21 @@
+{
+    "lambda_c": 1.0,
+    "lambda_u": 1.0,
+    "lambda_d": 1.0,
+    "batch": 256,
+    "batch_size": 256,
+    "epoch": 2,
+    "embed_dim": 64,
+    "learning_rate": 0.01,
+    "hist_size": 30,
+    "max_hist_len": 30,
+    "layers": 1,
+    "K": 8,
+    "alpha": 0.5,
+    "beta": 0.5,
+    "gamma": 0.001,
+    "zeta": 1,
+    "dropout_rate": 0.5,
+    "intention_weight": 0.7,
+    "epsilon": 0.001
+}
